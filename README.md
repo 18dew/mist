@@ -19,6 +19,7 @@ Start the mist UI interface first using Meteor:
     $ git clone https://github.com/ethereum/dapp-styles
     $ cd ..
     $ npm install
+    $ cd interface
     $ meteor
 
 And then in another terminal window start mist with:
