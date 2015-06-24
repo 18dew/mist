@@ -14,10 +14,10 @@ Then install electron:
     $ npm install -g electron-prebuilt
 
 Start the mist UI interface first using Meteor:
-
+    $ git clone https://github.com/ethereum/mist.git
     $ cd mist/interface/public
     $ git clone https://github.com/ethereum/dapp-styles
-    $ cd ..
+    $ cd ../..
     $ npm install
     $ meteor
 
